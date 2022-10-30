@@ -1,4 +1,4 @@
-<mxfile modified="2022-10-30T18:38:06.791Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="DHLl0y5_oGT2m7-CQLex" version="20.5.1" type="github">
+<mxfile modified="2022-10-30T18:41:35.511Z" host="app.diagrams.net" agent="5.0 (Windows)" etag="WgqqJPZL7Llb7iflYGV1" version="20.5.1" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="813" dy="430" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -23,13 +23,13 @@
         <mxCell id="AcxdMaKK0mU5kZiv2lnr-6" value="listupdate-service" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/WebApp_WebJobs.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="387" y="206" width="42" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="fkIsUnysvm8yx7V8iFc4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;fontColor=#333333;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=0.01;exitY=0.39;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AcxdMaKK0mU5kZiv2lnr-5" target="AcxdMaKK0mU5kZiv2lnr-4">
+        <mxCell id="fkIsUnysvm8yx7V8iFc4-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#808080;fontColor=#333333;startArrow=classic;startFill=1;endArrow=classic;endFill=1;exitX=1.014;exitY=0.348;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="AcxdMaKK0mU5kZiv2lnr-5" target="AcxdMaKK0mU5kZiv2lnr-4">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="40" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="AcxdMaKK0mU5kZiv2lnr-5" value="&lt;p style=&quot;line-height: 0.8;&quot;&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Client View&lt;/span&gt;&lt;/p&gt;" style="aspect=fixed;html=1;perimeter=none;align=center;shadow=0;dashed=0;image;fontSize=12;image=img/lib/mscae/TaskVM.svg;" parent="1" vertex="1">
-          <mxGeometry x="379.5" y="10" width="63" height="60" as="geometry" />
+          <mxGeometry x="50" y="214.25" width="63" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fkIsUnysvm8yx7V8iFc4-23" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="610" y="179.75" width="110" height="111.5" as="geometry" />
